@@ -247,8 +247,9 @@ export default function AdvancedPortfolio(): JSX.Element {
               variants={itemVariants}
             >
               Specializing in <span className="font-semibold text-cyan-600 dark:text-cyan-400">Java</span>,{" "}
-              <span className="font-semibold text-blue-600 dark:text-blue-400">Spring Boot</span>, and{" "}
-              <span className="font-semibold text-purple-600 dark:text-purple-400">React</span>. 
+              <span className="font-semibold text-cyan-600 dark:text-cyan-400">Spring Boot</span>, and{" "}
+              <span className="font-semibold text-blue-600 dark:text-blue-400">Big Data</span>, and{" "}
+              <span className="font-semibold text-purple-600 dark:text-purple-400">Machine Learning</span>. 
               Building scalable solutions that drive business success.
             </motion.p>
 
