@@ -17,21 +17,21 @@ type Project = {
 const projectsSeed: Project[] = [
  {
     id: "p1",
-    title: "JobNoti",
+    title: "business management",
     description: "Developed a dynamic business management web application using Spring Boot for backend services, Thymeleaf for server-side rendering, and MySQL for persistent data storage.",
     tags: ["Java", "Spring Boot"],
     live: "#",
   },
      {
     id: "p2",
-    title: "FindPgNearby",
+    title: "Crop Prediction",
     description: "Developed and trained five Machine Learning models (Decision Tree, Logistic Regression, Neural Network, SVM, KNN) and com- bined them into an Ensemble model, achieving improved accuracy of 98.40% higher than idividual model accuracy Decision Tree – 98.18%, Logistic Regression – 94.54%, Neural Network – 97.04%, SVM – 97.95%, KNN – 96.81%.",
     tags: ["Python", "Scikit-learn", "Keras", "TensorFlow", "Flask", "Android Studio", "Java", "Pandas", "NumPy"],
     live: "#",
   },
  {
     id: "p3",
-    title: "Government TDS System",
+    title: "Backlog Report Web App",
     description: "Engineered an automated backlog reporting system using LLM-based natural-language summarization and Spring Boot for reading ticket status and then distributing structured reports via email using Thymeleaf — reducing manual reporting effort and enabling instant ticket status insights form AI summarization.",
     tags: ["Java", "Spring Boot", "Thymeleaf", "Maven", "Large Language Model"],
   },
