@@ -330,9 +330,6 @@ export default function AdvancedPortfolio(): JSX.Element {
                         <Sparkles size={14} className="sm:w-5 sm:h-5" />
                         Summary
                       </div>
-                      <h3 className="text-2xl sm:text-3xl lg:text-4xl font-bold bg-gradient-to-r from-cyan-600 to-blue-600 bg-clip-text text-transparent mb-3 sm:mb-4">
-                        SmartCharge
-                      </h3>
                       <p className="text-sm sm:text-base lg:text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
                         Software Engineer with 1.5+ years of experience in Java and Spring Boot, specializing in backend development and scalable web applications. Strong foundation in Data Structures and Algorithms with 1200+ problems solved across Codeforces, LeetCode, GeeksforGeeks, and CodeChef. Achieved 4-Star rating on CodeChef and Specialist rank on Codeforces (max rating 1466), with a Global Rank 975 in Google Kick Start. Experienced in building secure, role-based applications using Spring Security, RESTful APIs, and MySQL.
                       </p>
@@ -535,8 +532,8 @@ export default function AdvancedPortfolio(): JSX.Element {
                   year="February 2024 – April 2024" 
                   title="Intern · Insignia" 
                   location="Bangalore, Karnataka"
-                  description="Engineered an backlog reporting system using LLM-based natural-language summarization and Spring Boot for reading ticket status and distributing structured reports via email using Thymeleaf."
-                  technologies={["Spring Boot", "Apache Kafka", "Microservices", "Apache Camel", "Multithreading"]}
+                  description="Trained a custom NLP Spacy ROBERTA model for resume parsing for NER. If a user submits his resume model must be able to extract all relevant details from a CV."
+                  technologies={["Python", "Hugging face", "Fine Tuning"]}
                 />
                 <TimelineItem 
                   year="February 2024 – April 2024" 
