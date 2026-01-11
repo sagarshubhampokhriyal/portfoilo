@@ -1,5 +1,5 @@
 import { AnimatePresence, motion } from "framer-motion";
-import { Calendar, Cloud, Code, Container, Database, DownloadCloud, ExternalLink, GitBranch, Github, Layers, Linkedin, Mail, MapPin, Phone, Server, Sparkles, Terminal, Workflow, Zap } from "lucide-react";
+import { Calendar, Cloud, Code, Database, DownloadCloud, ExternalLink, GitBranch, Github, Layers, Linkedin, Mail, MapPin, Phone, Server, Sparkles, Terminal, Workflow, Zap } from "lucide-react";
 import React, { useEffect, useState, type JSX } from "react";
 import Tilt from "react-parallax-tilt";
 
